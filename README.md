@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=euan-lee&show_icons=true&theme=dark)
+[euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=euan-lee&show_icons=true&theme=dark) 
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=merko)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=gruvbox)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=onedark)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=cobalt)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast)  
+![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
