@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 ![euan-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=euan-lee&show_icons=true&theme=dark) 
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=maplestory1419)](https://solved.ac/maplestory1419)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euan-lee&layout=레이아웃 스타일&theme=스타일)
